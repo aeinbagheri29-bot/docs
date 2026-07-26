@@ -1,4 +1,4 @@
----
+astala ista--- 
 title: Quickstart for GitHub Actions
 intro: Try out the core features of {% data variables.product.prodname_actions %} in minutes.
 allowTitleToDifferFromFilename: true
